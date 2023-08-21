@@ -4,3 +4,6 @@
 [submodule "2110211-intro-data-struct"]
 	path = 2110211-intro-data-struct
 	url = https://github.com/Leomotors/2110211-intro-data-struct.git
+[submodule "2110215-prog-meth"]
+	path = 2110215-prog-meth
+	url = https://github.com/Leomotors/2110215-prog-meth.git
