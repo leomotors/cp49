@@ -17,5 +17,7 @@ Chula Computer Engineering
 
 ## Year 2
 
+### Semester 1
+
 - 2110211 INTRO DATA STRUCT -> [Repo](https://github.com/Leomotors/2110211-intro-data-struct) [Web](https://2110211.leomotors.me)
 - 2110263 DIG LOGIC LAB -> This Repo
