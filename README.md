@@ -19,5 +19,7 @@ Chula Computer Engineering
 
 ### Semester 1
 
+- 2110202 DISCRETE STRUC COM -> Lecture Subject
 - 2110211 INTRO DATA STRUCT -> [Repo](https://github.com/Leomotors/2110211-intro-data-struct) [Web](https://2110211.leomotors.me)
-- 2110263 DIG LOGIC LAB -> This Repo
+- 2110251 DIG COMP LOGIC -> Lecture Subject
+- 2110263 DIG LOGIC LAB -> [This Repo](./2110263-dig-logic-lab/)
