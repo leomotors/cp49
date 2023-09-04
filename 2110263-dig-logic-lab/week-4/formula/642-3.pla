@@ -1,0 +1,4 @@
+a = A + BD + CD
+b = BD' + BC + B'C'D
+c = A + CD' + BC'D
+d = D

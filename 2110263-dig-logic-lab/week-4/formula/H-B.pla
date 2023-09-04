@@ -1,0 +1,7 @@
+a = A'B'C
+b = A'BC'
+c = A'BC
+d = AB'C'
+e = AB'C
+f = ABC'
+g = ABC

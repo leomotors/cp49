@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<circuit>
+  <version>2</version>
+  <attributes/>
+  <visualElements>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>In</string>
+        </entry>
+        <entry>
+          <string>Bits</string>
+          <int>7</int>
+        </entry>
+      </elementAttributes>
+      <pos x="-160" y="-80"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Out</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>Output</string>
+        </entry>
+        <entry>
+          <string>Bits</string>
+          <int>7</int>
+        </entry>
+      </elementAttributes>
+      <pos x="700" y="-60"/>
+    </visualElement>
+    <visualElement>
+      <elementName>H-A.dig</elementName>
+      <elementAttributes/>
+      <pos x="40" y="-80"/>
+    </visualElement>
+    <visualElement>
+      <elementName>H-B.dig</elementName>
+      <elementAttributes/>
+      <pos x="240" y="-80"/>
+    </visualElement>
+    <visualElement>
+      <elementName>H-C.dig</elementName>
+      <elementAttributes/>
+      <pos x="400" y="-80"/>
+    </visualElement>
+  </visualElements>
+  <wires>
+    <wire>
+      <p1 x="-60" y="-40"/>
+      <p2 x="400" y="-40"/>
+    </wire>
+    <wire>
+      <p1 x="460" y="-60"/>
+      <p2 x="700" y="-60"/>
+    </wire>
+    <wire>
+      <p1 x="-160" y="-80"/>
+      <p2 x="-60" y="-80"/>
+    </wire>
+    <wire>
+      <p1 x="100" y="-80"/>
+      <p2 x="240" y="-80"/>
+    </wire>
+    <wire>
+      <p1 x="300" y="-80"/>
+      <p2 x="400" y="-80"/>
+    </wire>
+    <wire>
+      <p1 x="-60" y="-80"/>
+      <p2 x="40" y="-80"/>
+    </wire>
+    <wire>
+      <p1 x="-60" y="-80"/>
+      <p2 x="-60" y="-40"/>
+    </wire>
+  </wires>
+  <measurementOrdering/>
+</circuit>
